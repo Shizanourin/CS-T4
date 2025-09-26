@@ -17,6 +17,7 @@ The following steps were executed using Windows Defender Firewall .
     An inbound rule was created to block all TCP traffic on port 23, the standard port for the insecure Telnet protocol.
 
     *Screenshot of the Windows Firewall rule:*
+    
  ![SharedScreenshot01](https://github.com/user-attachments/assets/02e7b875-0ef2-4792-b85e-a99ad0efadf2)
 
 
